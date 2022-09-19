@@ -6,16 +6,12 @@ output:
 geometry: margin=.7in
 
 title: "CV"
-author: YOUR NAME
+author: Benjamin Wallace
 
 fontawesome: yes
-email: your_email@email.com
-github: your_github
-twitter: your_twitter
-phone: "+1 234 567 8999"
+email: ben.wallace@duke.edu
+phone: "+1 (919) 924-7026"
 updated: no
-
-keywords: R Markdown, academic CV, template
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -23,39 +19,62 @@ fontsize: 11pt
 urlcolor: blue
 ---
 
-# Relevant skills
+# Education
 
-- MS Word, Excel, Access
-- Adobe Photoshop, InkScape, GIMP
+**B.A. Constructions of Race and Racial Attitudes in the United States** \hfill 2019 - Expected May 2023
+
+*Duke University, Durham, NC*
+
+- GPA: 4.00.
+
+- Thesis (Working paper): "Racial Profiling and Racialized Space: Analysis of 911 Call Data"
 
 # Experience 
 
-**Position name** \hfill Jan 2018 - current  
-*Organization, Place-name, State*
+**Teaching Assistant** \hfill June 2021 - current  
 
-- Something that you accomplished in your position; demonstrate leadership, teamwork, creativity, etc. Maybe show some numbers. Give some detail!
-- Something else that you did. Don't be shy.
+*Duke Department of Statistical Science, Durham, NC*
 
-**Another position** \hfill Jan - Dec 2017  
-*Organization, Place-name, State*
+- Coordinates with course instructor and teaching assistants to grade assignments and hold lab sessions.
 
-- Something that you did
-- Something else that you did
+- Hosts weekly office hours and forum Q&As to assist students with course concepts, assignments, and final projects.
 
-# Education
+- Led initiative for greater reproducibility in the Statistics Department’s internal documents and undergraduate theses using `bookdown`, an R-language package, through workshops and accessible documentation.
 
-**M.Sc. Your Degree** \hfill 2015 - 2016  
-*Department, University*
+**Resident Assistant** \hfill Aug 2020 - May 2021
 
-- Thesis: Something that I studied
-- Additional accomplishments
+*Duke Housing and Residential Life, Durham, NC*
 
-**B.Sc. Your Degree** \hfill 2011 - 2015  
-*Department, University*
+- Facilitated programming for first-year communities and connected each resident with at least one staff member of a campus resource.
 
-- GPA: 
+- Support for marginalized sexual, gender, and religious groups through programming with the Center for Jewish Life and Center for Sexual and Gender Diversity
+
+**Archival Intern** \hfill May 2021 - May 2022
+
+*Shame of Chicago Documentary, Chicago, IL*
+
+- Collected more than 200 archival newspapers, photographs, footage, and audio recordings to document the history of residential segregation and racial violence in Chicago during the early 20th century.
+
+- Implemented archival materials and advised the producer on the storyline of a documentary series (forthcoming).
+
+**Community Engagement Intern \hfill May - July 2022**
+
+*City Manager's Office, Durham, NC*
+
+- Conducted listening sessions with more than 40 young people to inform priorities for the city's comprehensive plan on land use.
+
+- Wrote a comprehensive report analyzing residential satisfaction survey data and produced recommendations to improve County and City services for young people. 
+
+**Undergraduate Researcher \hfill Aug - Dec 2020**
+
+*Bass Connections and Department of Sociology, Durham, NC*
+
+- Collaborated with a research team and a statewide voter advocacy organization to investigate racial disparities in provisional ballots during the 2020 election using state election data.
+
+- Synthesized literature for Dr. Christopher Wildeman's publications.
 
 # Awards and Honors
 
-- Award of Excellence \hfill 2017
-- Travel Grant \hfill 2017
+- Dean's List: Spring 2022, Fall 2021, Fall 2019
+
+- 20|20 Scholars Program 
