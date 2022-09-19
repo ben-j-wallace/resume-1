@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: cv-latex.tex
-geometry: margin=.7in
+geometry: margin=.5in
 
 title: "CV"
 author: Benjamin Wallace
@@ -15,7 +15,7 @@ updated: no
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
-fontsize: 11pt
+fontsize: 7 pt
 urlcolor: blue
 ---
 
@@ -26,8 +26,6 @@ urlcolor: blue
 *Duke University, Durham, NC*
 
 - GPA: 4.00.
-
-- Thesis (Working paper): "Racial Profiling and Racialized Space: Analysis of 911 Call Data"
 
 # Experience 
 
