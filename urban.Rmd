@@ -1,0 +1,78 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.5in
+
+title: "CV"
+author: Benjamin Wallace
+
+fontawesome: yes
+email: ben.wallace@duke.edu
+phone: "+1 (919) 924-7026"
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 7 pt
+urlcolor: blue
+---
+
+# Education
+
+**B.A. Constructions of Race and Racial Attitudes in the United States** \hfill 2019 - Expected May 2023
+
+*Duke University, Durham, NC*
+
+- GPA: 4.00.
+
+# Experience 
+
+**Community Engagement Intern** \hfill May - Aug 2022
+
+*Office on Youth, Durham, NC*
+
+- Facilitated listening sessions with more than 40 young people to inform priorities for the City's comprehensive plan.
+
+- Conducted qualitative analysis and produced a comprehensive report using residential satisfaction data. Synthesized survey responses to produce recommendations for County and City services specific to young people. 
+
+**Archival Research Intern** \hfill May 2021 - May 2022
+
+*Shame of Chicago Documentary, Chicago, IL*
+
+- Collected more than 200 archival newspapers, photographs, footage, and audio recordings to document the history of residential segregation and racial violence in Chicago during the early 20th century.
+
+- Implemented archival materials and advised the producer on the story line of a documentary series (forthcoming).
+
+**Teaching Assistant** \hfill June 2021 - current  
+
+*Duke Department of Statistical Science, Durham, NC*
+
+- Coordinates with course instructor and teaching assistants to grade assignments and hold lab sessions.
+
+- Spearheaded initiative for visually-oriented educational materials on probability theory, regression, and quantitative research methods. 
+
+- Hosts weekly office hours and forum Q&As to evaluate students' needs.
+
+**Research Assistant** \hfill Aug - Dec 2020
+
+*Bass Connections and Department of Sociology, Durham, NC*
+
+- Collaborated with a research team and a statewide voter advocacy organization to investigate racial disparities in provisional ballots during the 2020 election using state election data.
+
+- Synthesized literature on the effects of criminal justice contact on parents, children, and kinship networks for Dr. Christopher Wildeman's publications.
+
+**Resident Assistant** \hfill Aug 2020 - May 2021
+
+*Duke Housing and Residential Life, Durham, NC*
+
+- Facilitated programming for first-year communities and connected each resident with at least one staff member of a campus resource.
+
+- Support for marginalized sexual, gender, and religious groups through programming with the Center for Jewish Life and Center for Sexual and Gender Diversity
+
+# Awards and Honors
+
+- Dean's List: Spring 2022, Fall 2021, Fall 2019
+
+- 20|20 Racial Justice Scholars Program 
